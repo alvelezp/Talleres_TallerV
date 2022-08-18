@@ -8,10 +8,16 @@
 
 #include <stdint.h>
 
+unsigned int anos = 0;
+signed short dias = 0;
 
 int main(void)
 {
-    /* Loop forever */
+    anos = 10;
+    dias = 365;
+    //Esta es una prueba
+
+	/* Loop forever */
 	while(1){
 
 	}
